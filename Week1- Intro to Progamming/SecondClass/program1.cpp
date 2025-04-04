@@ -43,5 +43,5 @@ int main() {
 //high level language to binary code
 //high level language to executable code
 //high level language to source code    
-
+//when we do unSIGNED CHAR it is 8 bit HOW DOES IT gets stored
 
